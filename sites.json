@@ -1,0 +1,10 @@
+[
+    {
+	"site": "LWN",
+	"url": "https://lwn.net/headlines/rss"
+    },
+    {
+	"site": "bad",
+	"url": "https://badnews.com/rss"
+    }
+]
